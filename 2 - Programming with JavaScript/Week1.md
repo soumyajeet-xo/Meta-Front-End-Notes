@@ -113,6 +113,7 @@ Additional resources : https://www.coursera.org/learn/programming-with-javascrip
 ## JavaScript is Case Sensitive
 
 # Conditionals and Loops
+
 ### Video 13 : Writing statements
 - conditions
 - conditional statement if, if-else, else if
@@ -121,7 +122,60 @@ Additional resources : https://www.coursera.org/learn/programming-with-javascrip
 
 
 ### Video 14 : Working with conditional statements
-- switch statement
+- switch statement (works like java)
+
+Conditional examples : https://www.coursera.org/learn/programming-with-javascript/supplement/oIsxQ/conditional-examples
+
+### Video 16 : Looping constructs
+- loop for repetitive tasks
+- infinite loop
+- loop same as java just var inplace of variable datatype
+- for loop, while loop, nested loop
+- declaration,condition,incrementaion
+- for and while loop difference is start counter lies outside the body of the while loop
+
+
+### Video 17 : For loop
+- for loop implementation (almost same as java)
+- preincrement and post increment (++i and i++)
+
+
+### Video 18 : While loop
+- counter value is declared outside the loop and condtion is in parenthesis (increment is typically in loop body)
+
+
+
+### Video 19 : Nested loops
+- two interdependent process
+- they are resource expensive (same as java )(time complexity ofcourse) 
+
+ Loops and nested loops : https://www.coursera.org/learn/programming-with-javascript/supplement/KSxyh/loops-and-nested-loops
+ 
+ ```
+ //nested loops - one inside another 
+for (var i = 100; i > 10; i = i - 10) {
+    for (var j = 10; j > 4; j = j - 5) {
+        console.log(i + " divided by " + j + " equals " + i / j);
+    }
+}
+ ```
+ 
+Uses of loops (Advance usage) : https://www.coursera.org/learn/programming-with-javascript/supplement/d1vkG/uses-of-loops
+
+### Video 20 : Module summary: Introduction to JavaScript
+- recap
+- what programming is
+- what is js
+- interaction with js engine
+- create variable and assign
+- primitive datatypes and their characteristics
+- string and their syntax
+- boolean datatype
+- capabilities and limitation of number
+- if else and conditonals
+- for loop and other loops
+- 
+
 
 
 
