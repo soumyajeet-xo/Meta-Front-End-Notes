@@ -21,61 +21,107 @@ How to uncover job opportunities
 https://www.coursera.org/learn/programming-with-javascript/supplement/6A26G/how-to-uncover-job-opportunities
 
 
-### Video 3 : 
+### Video 3 : Setting up VS code (Optional)
+- Vs code setup and first hello world program
+
+# Welcome to Programming
+
+### Video 4 : Introduction to programming
+- intro to programming and programmning language (facilitate communication bw computer and user)
+- binary code, electrical switches, ram
+- high and low level language : The zeros and ones of binary code is a low-level language because it's closer to being understood by a CPU. JavaScript on the other hand is a high-level language. This means that it has to be converted to binary code so that a CPU can work with it.
+- computer program meaning 
+
+
+
+### Video 5 : Why JavaScript?
+- javascript for interactivity in webpages
+- language of the web
+- js alternative (vscript and typecript)
+- browser have js engine build in
+- node js and npm
+
+
+### Video 6 : Programming in JavaScript
+- many use cases of js
+- jquery - javascript library that solves js compatibility issue in different browser
+- react - solves issues that creating, maintaining and updating complex websites
+
+
+Writing your first Javascript code (browser)
+https://www.coursera.org/learn/programming-with-javascript/supplement/KvDEo/writing-your-first-javascript-code
 
 
 
 
-### Video 4 : 
+### Video 7 : Variables
+- need structure to write js  code
+- variable declaration, assign, use
+- var keyword
+- var application in console (var person = "John");
+- console.log("%cHello, World", "color: blue; font-size: 40px");
+
+Exercise: Declaring variables
+https://www.coursera.org/learn/programming-with-javascript/supplement/uuuxg/exercise-declaring-variables
+
+
+### Video 8 : Data types
+- primitive datatypes (7) String, Number, Boolean, Null, Undefined, BigInt, Symbol
+- data meaning
+
+
+### Video 9 :  Operators
+- Assignment,Comparison, logical operator, Arithematic operators
+- they control the flow of program
+- almost same as java
+- = is used as assignment and == is used as comparison operator.
 
 
 
-
-### Video 5 : 
-
-
-
-
-### Video 6 : 
-
+### Video 10 : Numbers
+- A foundational datatype represents integer and decimal
+- demonstration of Number data type and various operators in chrome console
+- ** is used as power operator
+- modulas % operator gives remainder
+- operator precedence and brackets
 
 
-
-### Video 7 : 
-
-
-
-
-### Video 8 : 
+### Video 11 : Strings
+- sequence of characters represented in single or double quotes (delimiters)
+- empty string '' ""
+- works a little like python
 
 
 
+### Video 12 : Booleans
+- true/false
+- > , < , ==
+- strict  equality === (check for both value and type)
+- == ingnores the type of the data type (weird :| )
+- strict unequality !==
+- operator associativity and operator precedence
+
+Operators in depth : https://www.coursera.org/learn/programming-with-javascript/supplement/xmXcT/operators-in-depth
++ plus can be used as concatenation
++ += for accumulation (same as java)
++ For example, the assignment operator is right-to-left associative, while the greater than operator is left-to-right associative:
+
+JavaScript improvements : https://www.coursera.org/learn/programming-with-javascript/supplement/RNDwg/javascript-improvements
+
+Additional resources : https://www.coursera.org/learn/programming-with-javascript/supplement/2CJRu/additional-resources
+
+## JavaScript is Case Sensitive
+
+# Conditionals and Loops
+### Video 13 : Writing statements
+- conditions
+- conditional statement if, if-else, else if
+- 
 
 
-### Video 9 :  
 
-
-
-
-
-### Video 10 : 
-
-
-
-
-### Video 11 : 
-
-
-
-### Video 12 : 
-
-
-
-### Video 13 : 
-
-
-
-### Video 14 : 
+### Video 14 : Working with conditional statements
+- switch statement
 
 
 
