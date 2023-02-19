@@ -174,7 +174,10 @@ Uses of loops (Advance usage) : https://www.coursera.org/learn/programming-with-
 - capabilities and limitation of number
 - if else and conditonals
 - for loop and other loops
-- 
+
+Additional resources for Conditionals and Loops : https://www.coursera.org/learn/programming-with-javascript/supplement/YZmG6/additional-resources-for-conditionals-and-loops
+
+
 
 
 
