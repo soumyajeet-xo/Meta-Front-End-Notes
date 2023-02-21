@@ -31,7 +31,7 @@ Building and calling functions : https://www.coursera.org/learn/programming-with
 - object is basically specific state
 - object has an identity, a behavior and a state. 
 - object are used to relate different datas
-- object declaration     
+- object declaration     d
   ```
   var a = {};
   a.first=1;
