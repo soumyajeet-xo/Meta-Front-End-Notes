@@ -17,7 +17,7 @@
         <img id="photo" src="photo.jpg" alt="photo">
     </div>
     <div>
-        <h1>Favorite Music Artists</h1>
+        <h2>Favorite Music Artists</h2>
         <ul>
             <li>Zayn Malik</li>
             <li>Alec benjamin</li>
@@ -27,7 +27,7 @@
         </ul>
     </div>
     <div>
-        <h2>Favourite Films</h2>
+        <h2>Favorite Films</h2>
         <ol>
             <li>Interstellar</li>
             <li>Shutter Island</li>
@@ -44,11 +44,15 @@
 ```
 
 ### style.css
+
 ```
 body{
-    border: 2px;
+    border-width: 2px;
     border-style: solid;
     border-color: blue;
+}
+h1{
+    color: blue;
 }
 h2{
     color: grey;
@@ -56,4 +60,5 @@ h2{
 div{
     margin: 4px;
 }
+
 ```
