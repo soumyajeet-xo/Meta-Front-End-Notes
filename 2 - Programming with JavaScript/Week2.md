@@ -26,7 +26,6 @@ Building and calling functions : https://www.coursera.org/learn/programming-with
 
 
 
-
 ### Video 3 : Introduction to objects
 - object is basically specific state
 - object has an identity, a behavior and a state. 
@@ -46,11 +45,40 @@ Building and calling functions : https://www.coursera.org/learn/programming-with
   ```
 - dot notation
 
+### code 
+```
+function letterFinder(word, match) {
+    for(var i = 0; i < word.length; i++) {
+        if(word[i] == match) {
+            //check if the current characater, word[i], is equal to the match
+            console.log('Found the', match, 'at', i)
+        } else {
+            console.log('---No match found at', i)
+        }
+    }
+}
+
+letterFinder("test", "t")
+
+```
 
 
+### Video 4 : Introduction to objects
+- group of data
+- to establish relation between datas
+- variable name is property key; and variable value becomes object value.
+ ```
+  var name = {
+  height: 6,
+  social: 60,
+  streetsmart: 80,
+  health: 60
+  } 
+  ```
+- object can be updated after they are created by dot notaion.
+- name.study = 80;
 
-### Video 1 : 
-
+https://www.coursera.org/learn/programming-with-javascript/supplement/ovZyv/object-literals-and-the-dot-notation
 
 
 ### Video 1 : 
