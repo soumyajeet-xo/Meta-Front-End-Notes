@@ -83,9 +83,46 @@ https://www.coursera.org/learn/introduction-to-front-end-development/supplement/
 
 ### Video 5 : Bootstrap grid
 - bootstrap grid system always has a container, row, coloumn
--  
+- ``` <div class="col-12 col-lg-6"> ``` to make breakpoints and reponsive
+```
+<body>
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <div class="text-center">
+                    <img src="logo.png" class="img-fluid">
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12">
+                <div class="text-center">
+                    <h1>Our Menu</h1>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12 col-lg-6">
+                <h2>Falafel</h2>
+                <p>Chickpea, herbs, spices.</p>
+                <h2>Fried Calamari</h2>
+                <p>Squid, buttermilk.</p>
+            </div>
+            <div class="col-12 col-lg-6">
+                <h2>Pasta Salad</h2>
+                <p>Lettuce, vegetables, mozzarella.</p>
+                <h2>Greek Salad</h2>
+                <p>Cucumbers, onion, feta cheese.</p>
+            </div>
+        </div>
+    </div>
+</body>
+```
+### Bootstrap is basically a css framework. class can be used to import bootstrap various properties
 
-### Video 2 : 
+### Video 6 : Bootstrap components
+-  alert alert-info
+-  
 
 ### Video 2 : 
 
