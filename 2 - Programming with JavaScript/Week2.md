@@ -79,15 +79,23 @@ letterFinder("test", "t")
 - name.study = 80;
 
 https://www.coursera.org/learn/programming-with-javascript/supplement/ovZyv/object-literals-and-the-dot-notation
+https://www.coursera.org/learn/programming-with-javascript/supplement/9j3wI/object-literals-and-the-brackets-notation
+
+```
+var fruits = [];
+fruits.push("apple"); // ['apple']
+fruits.push('pear'); // ['apple', 'pear']
+```
+https://www.coursera.org/learn/programming-with-javascript/supplement/uhT9O/math-object-cheat-sheet
+
+### Video 5 : Math object
+- Math.random()
+- Math.ceil() ceil to upper integer
 
 
-### Video 1 : 
-
-
-
-
-### Video 1 : 
-
+### Video 6 : A closer look at strings
+- iterable datatypes
+- 
 
 
 ### Video 1 : 
