@@ -95,7 +95,14 @@ https://www.coursera.org/learn/programming-with-javascript/supplement/uhT9O/math
 
 ### Video 6 : A closer look at strings
 - iterable datatypes
-- 
+- strings can be iterated over
+- .length
+- .concat 
+- .pop
+- .charAt(index)
+
+
+  String cheatsheet  - https://www.coursera.org/learn/programming-with-javascript/supplement/smpcZ/string-cheat-sheet 
 
 
 ### Video 1 : 
