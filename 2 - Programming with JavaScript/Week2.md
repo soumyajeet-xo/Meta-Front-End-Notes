@@ -103,9 +103,17 @@ https://www.coursera.org/learn/programming-with-javascript/supplement/uhT9O/math
 
 
   String cheatsheet  - https://www.coursera.org/learn/programming-with-javascript/supplement/smpcZ/string-cheat-sheet 
+  Object Model - https://www.coursera.org/learn/programming-with-javascript/supplement/NgndT/object-methods
 
+### Video 7 : Typeof
+- typeof
+- Arrays in js are objects
 
-### Video 1 : 
+Different ways to add properties to an object in js.
+https://www.scaler.com/topics/add-property-to-object-javascript/
+
+Additional Resources
+https://www.coursera.org/learn/programming-with-javascript/supplement/z8HHt/additional-resources
 
 
 
