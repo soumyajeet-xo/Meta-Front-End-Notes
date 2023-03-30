@@ -118,17 +118,45 @@ https://www.coursera.org/learn/programming-with-javascript/supplement/z8HHt/addi
 
 
 
-### Video 1 : 
+### Video 8 : Type Of Errors
+- bugs - causes a program to run in an uninteded way
+- error - causes a program to stop running
+- Syntax, reference and type errors
+- Syntax error - "Hello;
+- Reference Error - a+b; but a and b are not defined.
+- Type Error - (5).pop();   - the type of 5 is number but pop is intended for array.
+- bug ex- we want to add to number.. but '1'+2 gives result 12 but we expected 3.. this is because of the bug. in this case typo which caused concatenation.
+- As error abruptly stops the program.thus we need to have something called error handling.
 
 
 
 
-### Video 1 : 
+### Video 9 : Try catch blocks
+- try and catch helps code continue to run even if it runs into an error.
+- throw, try, catch
+- i.e the error gets wrapped inside the try block and the catch block catches it for further execution.
+- throw keyword helps throw error from try block to the catch block. thus the catch block will expect something an error which is an object.
+- throw new ReferenceError(); - for test ; throws error
+```
+try{
+     console.log(a+b);
+     }
+catch(err){ //built in reference object
+    console.log(err) // error recieved an object will be printed
+    console.log("There was an error");
+    }
+console.log("My program is still running"); //this line will get printed that shows the program is still runnning.
+```
+
+All the type of errors :  https://www.coursera.org/learn/programming-with-javascript/supplement/W5XJb/syntax-logical-and-runtime-errors
+``` (10).toString(2); ```
 
 
-
-
-### Video 1 : 
+### Video 10 : Undefined, null and empty values
+- undefined can hold only 1 value i.e undefined
+- it acts as a placeholder for the valus which are yet to exist.
+- empty string
+- 
 
 
 
