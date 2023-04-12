@@ -161,49 +161,9 @@ All the type of errors :  https://www.coursera.org/learn/programming-with-javasc
 
 
 
-### Video 1 : 
+### Video 11 : 
 
 
 
 
-
-### Video 1 : 
-
-
-
-
-
-### Video 1 : 
-
-
-
-
-
-### Video 1 : 
-
-
-
-
-
-### Video 1 : 
-
-
-
-
-
-### Video 1 : 
-
-
-
-
-
-### Video 1 : 
-
-
-
-
-### Video 1 : 
-
-
-
-### Video 1 : 
+https://www.coursera.org/learn/programming-with-javascript/supplement/u3D9w/additional-resources
