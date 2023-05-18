@@ -124,41 +124,23 @@ https://www.coursera.org/learn/introduction-to-front-end-development/supplement/
 -  alert alert-info
 -  
 
-### Video 2 : 
+
+# Intro to UI Frameworks and Libraries
+
+### Static and Dynamic content : 
+- dynamic content are shown to users using application server
+- application server have limitations on the number of request it can process in a given instance of time.
+- thus we have web server and caching - web server keeps a copy of dynamic content.
+
+### Single Page Applications (SPA): 
+- Multipage website are resource intensive to web servers. i.e cpu time and high bandwidth.
+- spa doesnt means website have 1 page. it means that one page is sent to from server to the browser and that page will update as the user interacts
+- bundling and lazy loading
+- 
 
 ### Video 2 : 
 
 ### Video 2 : 
 
-### Video 2 : 
 
-### Video 2 : 
-
-### Video 2 : 
-
-### Video 2 : 
-
-### Video 2 : 
-
-### Video 2 : 
-
-### Video 2 : 
-
-### Video 2 : 
-
-### Video 2 : 
-
-### Video 2 : 
-
-### Video 2 : 
-
-### Video 2 : 
-
-### Video 2 : 
-
-### Video 2 : 
-
-### Video 2 : 
-
-### Video 2 : 
 
