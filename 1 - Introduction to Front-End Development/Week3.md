@@ -138,7 +138,11 @@ https://www.coursera.org/learn/introduction-to-front-end-development/supplement/
 - bundling and lazy loading
 - 
 
-### Video 2 : 
+### What is React? : 
+- react help combine components
+- reusable components
+
+https://react.dev/
 
 ### Video 2 : 
 
