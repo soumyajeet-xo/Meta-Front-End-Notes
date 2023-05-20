@@ -38,7 +38,10 @@ https://www.coursera.org/learn/programming-with-javascript/supplement/6A26G/how-
 - javascript for interactivity in webpages
 - language of the web
 - js alternative (vscript and typecript)
-- browser have js engine build in
+- browser have js engine built in
+- plain javascript is also known as vanilla js
+- js frameworks like react, vue and D3
+- on the server side as node js or more recently dino
 - node js and npm
 
 
