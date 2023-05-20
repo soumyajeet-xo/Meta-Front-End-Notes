@@ -140,11 +140,42 @@ https://www.coursera.org/learn/introduction-to-front-end-development/supplement/
 
 ### What is React? : 
 - react help combine components
+- react is a javascript library for easy functionality
 - reusable components
 
 https://react.dev/
 
-### Video 2 : 
+### How React works : 
+- React creates a virtual DOM model one to one browser dom
+- if change is required then react changes one by one
+
+The Virtual DOM:
+https://www.coursera.org/learn/introduction-to-front-end-development/supplement/4TP4s/the-virtual-dom
+
+
+### Component hierarchy : 
+- app componenet and nav bar component for example in a blog
+
+Alternative to React
+https://www.coursera.org/learn/introduction-to-front-end-development/supplement/AGPSi/alternatives-to-react
+
+### Module Summary: UI Frameworks: 
+- Introduction to UI frameworks
+- utilize css and js libraries
+- dependecie, packet manager and bundlers
+- key techniques in responsive web design
+- build a simple bootstrap website 
+- bootstrap css  library
+- bootstrap grid
+- Introduction to react
+- static and dynamic content
+- single page application
+- react library
+- react component model
+- react components
+- heirarchy model
+- 
+
 
 
 
