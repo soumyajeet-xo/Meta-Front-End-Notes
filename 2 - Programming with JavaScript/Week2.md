@@ -82,6 +82,23 @@ https://www.coursera.org/learn/programming-with-javascript/supplement/ovZyv/obje
 https://www.coursera.org/learn/programming-with-javascript/supplement/9j3wI/object-literals-and-the-brackets-notation
 
 ```
+car.color = "red";
+car["color"] = "green";
+```
+
+```
+var arrOfKeys = ['speed', 'altitude', 'color'];
+var drone = {
+    speed: 100,
+    altitude: 200,
+    color: "red"
+}
+for (var i = 0; i < arrOfKeys.length; i++) {
+    console.log(drone[arrOfKeys[i]])
+}
+```
+
+```
 var fruits = [];
 fruits.push("apple"); // ['apple']
 fruits.push('pear'); // ['apple', 'pear']
@@ -98,15 +115,16 @@ https://www.coursera.org/learn/programming-with-javascript/supplement/uhT9O/math
 - strings can be iterated over
 - .length
 - .concat 
-- .pop
+- .pop() and .push() wont wont work for string
 - .charAt(index)
 
 
   String cheatsheet  - https://www.coursera.org/learn/programming-with-javascript/supplement/smpcZ/string-cheat-sheet 
+  
   Object Model - https://www.coursera.org/learn/programming-with-javascript/supplement/NgndT/object-methods
 
 ### Video 7 : Typeof
-- typeof
+- typeof : datatype 
 - Arrays in js are objects
 
 Different ways to add properties to an object in js.
@@ -119,7 +137,7 @@ https://www.coursera.org/learn/programming-with-javascript/supplement/z8HHt/addi
 
 
 ### Video 8 : Type Of Errors
-- bugs - causes a program to run in an uninteded way
+- bugs - causes a program to run in an uninteded way 
 - error - causes a program to stop running
 - Syntax, reference and type errors
 - Syntax error - "Hello;
@@ -152,7 +170,7 @@ All the type of errors :  https://www.coursera.org/learn/programming-with-javasc
 ``` (10).toString(2); ```
 
 
-### Video 10 : Undefined, null and empty values
+### Video 10 : empty values - Undefined, null and empty values
 - undefined can hold only 1 value i.e undefined
 - it acts as a placeholder for the valus which are yet to exist.
 - empty string
