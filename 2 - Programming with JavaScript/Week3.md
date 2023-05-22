@@ -88,10 +88,13 @@ styleAndCelebrate('ef7c8e', 'fae8e0', '30px',  'You made it!', 'champions');
 - redefining again and again using var gives no error.. the last update will be the final
 - let variable needs to be declared first to use and no redeclaration
 - const can be re declared but the catch  is const needs to be declared and initialized too
+
+Additional Resources:
+https://www.coursera.org/learn/programming-with-javascript/supplement/plJph/additional-resources
+
+# Introduction to Object-Oriented Programming
+### Video 1 : Introduction to object-oriented programming
 - 
-
-
-### Video 1 :
 
 
 
