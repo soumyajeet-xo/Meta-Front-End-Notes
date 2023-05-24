@@ -94,12 +94,20 @@ https://www.coursera.org/learn/programming-with-javascript/supplement/plJph/addi
 
 # Introduction to Object-Oriented Programming
 ### Video 1 : Introduction to object-oriented programming
-- 
+- this keyword works as alias
+- function paradigm and oop paradigm
+- this keyword abstains us from writing custom methods.
 
+### Video 2 : Classes
+- class essentially is a blueprint to built new object
+- constructor function accepts many parameters and the role of it is to assign the passed in parameters for the future object property
+- inside the class, no need to specify function keyword to declare function.
 
+Object Oriented Programming principles
+https://www.coursera.org/learn/programming-with-javascript/supplement/rt3PB/object-oriented-programming-principles
+var myDog = Object.create(Animal)
+var myDog = new Animal()
 
-### Video 1 :
-
-
+https://www.coursera.org/learn/programming-with-javascript/supplement/rt3PB/object-oriented-programming-principles
 
 ### Video 1 :
