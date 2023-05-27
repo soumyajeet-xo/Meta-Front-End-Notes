@@ -110,4 +110,10 @@ var myDog = new Animal()
 
 https://www.coursera.org/learn/programming-with-javascript/supplement/rt3PB/object-oriented-programming-principles
 
-### Video 1 :
+Constructors :
+https://www.coursera.org/learn/programming-with-javascript/supplement/ZhGvD/constructors
+
+
+### Video 3 : Inheritance
+- create syntax is used to create as many objects as we want.
+- 
