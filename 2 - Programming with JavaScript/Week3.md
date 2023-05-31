@@ -116,4 +116,6 @@ https://www.coursera.org/learn/programming-with-javascript/supplement/ZhGvD/cons
 
 ### Video 3 : Inheritance
 - create syntax is used to create as many objects as we want.
-- 
+- inheritence using bird and eagle1 and penguin.
+- var bird{ properties }
+- var eagle1 = object.create(bird);
