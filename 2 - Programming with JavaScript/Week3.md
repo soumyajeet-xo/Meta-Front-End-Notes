@@ -119,3 +119,16 @@ https://www.coursera.org/learn/programming-with-javascript/supplement/ZhGvD/cons
 - inheritence using bird and eagle1 and penguin.
 - var bird{ properties }
 - var eagle1 = object.create(bird);
+- inheritance doesnt changes the original object prototype
+
+Creating classes
+https://www.coursera.org/learn/programming-with-javascript/supplement/VJhho/creating-classes
+
+### Video 3 : Inheritance
+### Video 3 : Inheritance
+### Video 3 : Inheritance
+### Video 3 : Inheritance
+### Video 3 : Inheritance
+### Video 3 : Inheritance
+### Video 3 : Inheritance
+
